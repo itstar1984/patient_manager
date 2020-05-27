@@ -1,0 +1,8 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "password":"",
+    "database":"patient_manage",
+    "timezone":"utc",
+    "dateStrings":true
+}
